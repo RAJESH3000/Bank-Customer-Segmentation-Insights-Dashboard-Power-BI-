@@ -17,9 +17,11 @@ The solution leverages **Power BI** for data cleaning, modeling, and building in
    - Gender, age group, and location-based customer demographics.  
    - Revenue distribution across customer segments (Loyal, New, Lost).  
    - High-risk vs. profitable customers identified via credit score analysis.  
-   - Transaction patterns over time and across customer groups.  
-
- 
+   - Transaction patterns over time and across customer groups.
+    
+## Project Files
+Due to GitHub's 25MB file size limit, large files are stored on Google Drive.  
+You can access them here: [Download from Google Drive] - https://drive.google.com/file/d/1plYAUt4uzGEC1_e5_XmTVHWTK0ZkTwfW/view?usp=sharing
 
 ##  How to Run
 1. Download the `.pbix` file from this repository.  
